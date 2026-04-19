@@ -49,7 +49,7 @@ I am currently pivoting to **DevOps/SRE**, building self-hosted environments and
 
 ### 🗺️ Learning Roadmap (2026)
 
-I am working towards landing a **Junior DevOps Engineer** role. Here is what I am focusing on right now:
+I am working towards landing a **DevOps Engineer** role. Here is what I am focusing on right now:
 
 - [x] **Containerization:** Docker & Docker Compose (Proficient)
 - [x] **Networking:** Reverse Proxies, DNS, VPN Meshes (Proficient)
